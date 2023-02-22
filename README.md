@@ -1,2 +1,4 @@
 # Lab1SoftwareEngineering
-This is the Second Branch!
+
+This is the First Branch and Second Branch! 
+
